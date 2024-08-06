@@ -18,6 +18,7 @@ function Header() {
           </span>
           <span className="text-gray-600 hover:text-gray-800 mx-2">
             <NavLink to="/contact">Contact</NavLink>
+            {/* some changes i done  */}
           </span>
         </nav>
       </div>
